@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\NYSSCoder\obj\Debug\NYSSCoder.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NYSSCoder\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\NYSSCoder\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\NYSSCoder\obj\Debug\NYSSCoder_MarkupCompile.cache
+C:\Users\Admin\source\repos\NYSSCoder\obj\Debug\NYSSCoder_MarkupCompile.lref
+C:\Users\Admin\source\repos\NYSSCoder\bin\Debug\NYSSCoder.exe.config
+C:\Users\Admin\source\repos\NYSSCoder\bin\Debug\NYSSCoder.exe
+C:\Users\Admin\source\repos\NYSSCoder\bin\Debug\NYSSCoder.pdb
+C:\Users\Admin\source\repos\NYSSCoder\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\NYSSCoder\obj\Debug\NYSSCoder.g.resources
+C:\Users\Admin\source\repos\NYSSCoder\obj\Debug\NYSSCoder.Properties.Resources.resources
+C:\Users\Admin\source\repos\NYSSCoder\obj\Debug\NYSSCoder.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\NYSSCoder\obj\Debug\NYSSCoder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NYSSCoder\obj\Debug\NYSSCoder.exe
+C:\Users\Admin\source\repos\NYSSCoder\obj\Debug\NYSSCoder.pdb
